@@ -55,5 +55,4 @@ The purpose of this project is to perform sentiment analysis on tweets extracted
 6. **Testing**:
    - Test the model with new tweets to predict their sentiment.
 
-## **Colab Notebook Link**
-- [Google Colab Notebook](https://colab.research.google.com/drive/1UeyHMZim_XF3BdAlxr7gPfHhbiTXgyjy?usp=sharing)
+
